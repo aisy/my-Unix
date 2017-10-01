@@ -1,7 +1,7 @@
 # My UNIX apps and Configuration for Development
 
 
-> Remember, not every application and configuration on this list you needed, this is my requirment for developing apps. if you like used same apps and configuration you're welcome to use that. 
+> Remember, not every application and configuration on this list you needed, this is my requirement for developing apps. if you like used same apps and configuration you're welcome to use that.
 
 
 #### 1. Terminal
