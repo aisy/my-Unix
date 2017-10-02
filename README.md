@@ -36,3 +36,6 @@ communitaction relate with job, Slack is the best. You can add extension like gi
 
 #### 10. Trello
 to handle and give job desc every user and check if the job is done you can use trello, because is the Best management and reporting project, say no more.  
+
+#### 11. Android Studio
+React native can develop 2 platform Android and iOS; but if you need to develop React native you stiil need Android SDK, sadly you still nedd this application becasue Android SDK include with Android Studio.
