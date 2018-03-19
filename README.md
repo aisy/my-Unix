@@ -3,6 +3,9 @@
 
 > Remember, not every application and configuration on this list you needed, this is my requirement for developing apps. if you like used same apps and configuration you're welcome to use that.
 
+Becuase im using ZSH, i must put enviroment in : ~/.zshenv
+or if you using default terminal, edit with this : ~/.bashprofile
+
 
 #### 1. Terminal
 As default we get terminal from OS but the default terminal is not good enoguh. Sometime you need 3rd terminal application on different OS like Linux or OSX. this is my list for linux and OSX:
